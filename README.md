@@ -6,14 +6,6 @@
 
 ### 1. Relevant Links :link:
 
-Source Code: [`https://github.com/Shubh-Nisar/commentator`](https://github.com/Shubh-Nisar/commentator)
-
----
-
-Youtube Demo: [`https://youtu.be/pFqcwyjAfB4`](https://youtu.be/pFqcwyjAfB4)
-
----
-
 Live Demo Site: [`http://commentator-iitgn.s3-website.ap-south-1.amazonaws.com/`](http://commentator-iitgn.s3-website.ap-south-1.amazonaws.com/)
 
 > Usage
